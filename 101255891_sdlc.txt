@@ -1,18 +1,18 @@
 Devops:
 
-DevOps is important because it's a software development and 
+    DevOps is important because it's a software development and 
 operations approach that enables faster development of new products and easier maintenance 
 of existing deployments
 
-Teams who fully embrace DevOps practices work smarter and faster, and deliver better quality to their customers. 
+    Teams who fully embrace DevOps practices work smarter and faster, and deliver better quality to their customers. 
 The increased use of automation and cross-functional collaboration reduces complexity and errors, 
 which in turn improves the Mean Time to Recovery (MTTR) when incidents and outages occur.
 
-Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, 
+    Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, 
 reduce the cost of designing, testing, writing and deploying software, and satisfy customer requirements faster.
 
-DevOps supports the Agile development methodology and shares many of its values such as continuous improvement, fast delivery,
+    DevOps supports the Agile development methodology and shares many of its values such as continuous improvement, fast delivery,
 smooth communication, etc. DevOps and Agile perfectly complement each other.
 
-What problems does DevOps solve? It is aimed at streamlining, speeding up, adding predictability, scalability, flexibility, 
+    What problems does DevOps solve? It is aimed at streamlining, speeding up, adding predictability, scalability, flexibility, 
 and website security to the processes of software development, testing, deployment, management, and maintenance.
