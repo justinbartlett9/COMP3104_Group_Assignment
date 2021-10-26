@@ -1,0 +1,12 @@
+101255891_devops
+
+
+Comp3104
+Professor: Pritesh Patel
+Goal of Devops: To optimize the flow of value from idea to end user
+Assignments assigned: 1
+Lab Tests assigned: 0
+Year: 2021
+
+-Roberto
+101255891
