@@ -1,0 +1,4 @@
+COMP3104 - Devops
+In this course we are learning how to employ devops strategies to effectively create and maintain softare.
+So far we have worked with Git and Travis.
+Our midterm is coming up so I will be studying devops very hard.
