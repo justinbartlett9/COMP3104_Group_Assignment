@@ -1,0 +1,10 @@
+Opinions on DevOps,
+
+The minimum someone has to take out of this course is the ability to adopt all practices that allow team members 
+to collaborate together in a software and physical medium. It is not enough to be able to commit to GitHub on your 
+own projects but learning how to work together is extremely undervalued, as well as a new way to develop 
+communication skills. While learning the ins and outs of GitHub, there is definitely a learning curve when it comes
+to modifying repos with other people but learning these skills now will save you from doing catastrophic issues in the future.
+You can easily delete your entire groups work as well as upload your own, the power is in your hands.
+
+- Alberto Reis 101 232 584
