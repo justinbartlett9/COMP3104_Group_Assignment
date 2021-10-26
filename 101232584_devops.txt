@@ -1,0 +1,5 @@
+DevOps course at GBC, taking what we learned a year ago in Linux and applying new and old bash commands into an actually intuitive manner. 
+Taking the first quarter of the course and really building a foundation of how to use terminals as well as GitHub is something that not everyone 
+may know by now but is fundamentally crucial in the working world. Our program hasn't really had any form of class or reinforcement
+about the importance of working together and this class is the first one to really put an emphasis on collaboration. DevOps also builds
+a foundation of people learning transparency and communication skills amongst everyone involved in projects ranging from users to developers.
