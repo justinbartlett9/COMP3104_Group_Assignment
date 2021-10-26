@@ -5,3 +5,5 @@ Taking the first quarter of the course and really building a foundation of how t
 may know by now but is fundamentally crucial in the working world. Our program hasn't really had any form of class or reinforcement
 about the importance of working together and this class is the first one to really put an emphasis on collaboration. DevOps also builds
 a foundation of people learning transparency and communication skills amongst everyone involved in projects ranging from users to developers.
+
+- Alberto 
