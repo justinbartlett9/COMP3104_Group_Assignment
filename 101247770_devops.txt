@@ -1,8 +1,8 @@
-In our COMP 3104 DevOps course, we learn about the combination of software devlopment and 
+In our COMP 3104 DevOps course, we learn about the combination of software development and 
 information technology to streamline the process of developing applications for clients. 
 So far, we have learned about specific areas in the DevOps process that help developers 
 remain autonomous and provoke better collaboration. We have learned about the CI/CD pipeline 
-and how it bridges the gap between development and operation temas when building, testing and 
+and how it bridges the gap between development and operation teams when building, testing and 
 deploying code. Next, we learned about Version Control Systems like Git and how they help 
 collaboration in teams and keep track of changes in code. Now, we are learning about CI tools 
 and their interaction with version control to help ensure code can be built without and errors for 
