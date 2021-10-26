@@ -1,4 +1,8 @@
 Learning the roles of DevOps engineer is important in the software development lifecycle because 
 they have a wide understanding of how the lifecycle steps all work and flow into each other. A 
 DevOps engineer has a solid understanding of automation tools for developing build pipelines 
-using various CI/CD tools. 
+using various CI/CD tools. They are work with all members of the team when building applications 
+to ensure the code that is being produced is building properly and maintainable. This role is usually 
+filled by someone who is [passionate about coding and code organization, planning, and testing. This 
+interest in structured code development allows them to facilitate and monitor the tasks of the software 
+development lifecycle that is beneficial for the whole project.
