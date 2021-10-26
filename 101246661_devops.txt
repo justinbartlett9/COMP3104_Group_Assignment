@@ -7,3 +7,5 @@ In 1993 the Telecommunications Information Networking Architecture Consortium (T
 In 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.
 
 DevOps practices, and their dependencies include a dependency network which connects potential benefits to an ordered chain of practices. Using this network organizations can choose a path that enables fulfillment of their goals.
+
+by Justin Bartlett

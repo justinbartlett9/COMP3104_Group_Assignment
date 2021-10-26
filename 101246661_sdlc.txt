@@ -7,3 +7,5 @@ SDLC is important because it allows developers to design and build high-quality 
 It provides control of the devlopment process and ensures that the software system complies with all the estimated requirements.
 SDLC helps lower the complexity of building a system from scratch.
 It allows the team to plan ahead.
+
+by Justin Bartlett
